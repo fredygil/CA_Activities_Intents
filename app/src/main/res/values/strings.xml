@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">CA_Activities_Intents</string>
+    <string name="app_name">Contacts</string>
+    <string name="form_name">Name</string>
+    <string name="form_description">Contact Description</string>
+    <string name="form_email">Email</string>
+    <string name="form_phone">Phone</string>
+    <string name="form_birthday">Birthday</string>
+    <string name="form_set_date">Set Date</string>
+    <string name="next">Next</string>
+    <string name="confirm_title">Confirm Data</string>
+    <string name="confirm_birthday">Birthday: </string>
+    <string name="confirm_phone">Phone: </string>
+    <string name="confirm_email">Email: </string>
+    <string name="confirm_description">Description: </string>
+    <string name="confirm_edit">Edit</string>
+    <string name="key_name">name</string>
+    <string name="key_description">description</string>
+    <string name="key_email">email</string>
+    <string name="key_phone">phone</string>
+    <string name="key_day">day</string>
+    <string name="key_month">month</string>
+    <string name="key_year">year</string>
 </resources>

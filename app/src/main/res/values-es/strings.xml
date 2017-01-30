@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="form_name">Nombre</string>
+    <string name="form_description">Descripción del Contacto</string>
+    <string name="form_email">Email</string>
+    <string name="form_phone">Teléfono</string>
+    <string name="form_birthday">Fecha de Nacimiento</string>
+    <string name="form_set_date">Escoger Fecha</string>
+    <string name="next">Siguiente</string>
+    <string name="confirm_title">Confirmar Datos</string>
+    <string name="confirm_birthday">Fecha Nacimiento: </string>
+    <string name="confirm_phone">Tel: </string>
+    <string name="confirm_email">Email: </string>
+    <string name="confirm_description">Descripción: </string>
+    <string name="confirm_edit">Editar Datos</string>
+</resources>
